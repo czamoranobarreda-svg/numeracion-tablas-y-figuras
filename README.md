@@ -43,6 +43,15 @@ documento obliga a renumerar todas las que vienen después.
    limitado a ese documento, no a tu cuenta completa.
 6. Verás el menú **📊 Numeración** junto a Ayuda.
 
+> **Nota sobre la advertencia "Google no ha verificado esta aplicación":**
+> al autorizar por primera vez es normal que aparezca esta pantalla — es
+> lo esperable para cualquier script personal/gratuito de Apps Script, no
+> solo este, y no significa que algo esté mal. Simplemente:
+> **Configuración avanzada → Ir a [nombre del proyecto] (no seguro) →
+> Permitir**. El script solo pide acceso al documento donde lo instalas,
+> nada más. Te puede volver a pedir esto cada cierto tiempo, o si lo
+> instalas en otra cuenta de Google — también es normal.
+
 ## Uso
 
 - Escribe tus títulos de tabla/figura en el documento como
