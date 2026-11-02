@@ -52,6 +52,16 @@ documento obliga a renumerar todas las que vienen después.
 > nada más. Te puede volver a pedir esto cada cierto tiempo, o si lo
 > instalas en otra cuenta de Google — también es normal.
 
+> **¿Hay que instalarlo en cada documento?** Sí: el script queda asociado
+> al documento donde lo pegaste, no a tu cuenta de Google, así que un
+> documento nuevo no lo trae por defecto. Dos formas de evitarte repetir
+> la instalación:
+> 1. Deja un documento "plantilla" con el script ya instalado y, para
+>    cada informe nuevo, usa **Archivo → Crear una copia** de esa
+>    plantilla (el script se copia junto con el documento).
+> 2. O simplemente repite estos mismos pasos de instalación en el
+>    documento nuevo — toma menos de un minuto.
+
 ## Uso
 
 - Escribe tus títulos de tabla/figura en el documento como
